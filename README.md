@@ -5,7 +5,7 @@ Delay express responses
 
 ## Use case
 
-You want to test your fancy ajax loaders, spinners and stuff, but your dev machine is to damn fast for that shit!
+You want to test your fancy ajax loaders, spinners and stuff, but your dev machine is too damn fast for that shit!
 
 ## Usage
 
