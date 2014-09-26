@@ -1,0 +1,26 @@
+{
+  "name": "express-delay",
+  "version": "0.0.1",
+  "description": "Delay express responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boo1ean/express-delay.git"
+  },
+  "keywords": [
+    "express",
+    "delay",
+    "sleep",
+    "slow-connection",
+    "slow"
+  ],
+  "author": "Egor Gumenyuk <boo1ean0807@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boo1ean/express-delay/issues"
+  },
+  "homepage": "https://github.com/boo1ean/express-delay"
+}
