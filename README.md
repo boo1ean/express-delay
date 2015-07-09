@@ -24,5 +24,14 @@ app.get('/', function(req, res) {
 // ...
 ```
 
+### Random delay
+
+You can also give it a range of values, which will make the delay random:
+
+```javascript
+// Delay will be between 200 and 500 milliseconds
+app.use(delay(200, 500));
+```
+
 ## LICENSE
 MIT
